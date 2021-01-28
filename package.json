@@ -59,7 +59,7 @@
     "webpack-dashboard": "^1.0.2"
   },
   "dependencies": {
-    "electron": "^5.0.11",
+    "electron": "^9.4.0",
     "electron-packager": "^14.0.0",
     "handlebars": "^4.2.0",
     "opencollective": "^1.0.3"
